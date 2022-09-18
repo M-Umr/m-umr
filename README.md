@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django, Fast API and ML Algorithms**
 
-- 💬 Ask me about **Python, PHP, TypeScript, JavaScript**
+- 💬 Ask me about **Python, ML Algorithms, Data Engineering Tools, BigData**
 
 - 📫 How to reach me **mu.umer1357@gmail.com**
 
