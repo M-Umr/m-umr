@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-umr&label=Profile%20views&color=0e75b6&style=flat" alt="m-umr" /> </p>
 
-- 🌱 I’m currently learning **Django, Fast API and ML Algorithms**
+- 🌱 I’m currently learning **PHP, Laravel and ML Algorithms**
 
-- 💬 Ask me about **Python, ML Algorithms, Data Engineering Tools, BigData**
+- 💬 Ask me about **Python, Django, Graphql, Data Engineering, BigData**
 
 - 📫 How to reach me **mu.umer1357@gmail.com**
 
