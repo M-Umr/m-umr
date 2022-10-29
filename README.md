@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
-<h3 align="center">A passionate Backend and Junior ML developer from Pakistan</h3>
+<h3 align="center">A passionate Backend Developer and Junior Data Scientist from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-umr&label=Profile%20views&color=0e75b6&style=flat" alt="m-umr" /> </p>
 
-- 🌱 I’m currently learning **React and Bootstrap**
+- 🌱 I’m currently learning **JavaScript and Bootstrap**
 
 - 💬 Ask me about **Python, Django, Graphql, Data Engineering, BigData**
 
