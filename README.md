@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Bootstrap**
 
-- 💬 Ask me about **Python, Django, Graphql, Data Engineering, BigData**
+- 💬 Ask me about **Python, Django, Rest API, Graphql, Data Engineering, BigData**
 
 - 📫 How to reach me **mu.umer1357@gmail.com**
 
