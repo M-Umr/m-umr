@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Backend Developer and Junior Data Scientist from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
 
+<img src="https://camo.githubusercontent.com/c09143f0c08c65f59c182c738c060f24f944e5eedffb3ce017824f7262a2de36/68747470733a2f2f77616b6174696d652e636f6d2f62616467652f757365722f39613935616663632d323534362d343565612d613463642d3038326635626434646330342e737667" alt="wakatime" data-canonical-src="https://wakatime.com/badge/user/9a95afcc-2546-45ea-a4cd-082f5bd4dc04.svg" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-umr&label=Profile%20views&color=0e75b6&style=flat" alt="m-umr" /> </p>
 
 - 🌱 I’m currently learning **JavaScript and Bootstrap**
