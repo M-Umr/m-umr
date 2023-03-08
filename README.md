@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">A passionate Backend Developer and Junior Data Scientist from Pakistan</h3>
+<a href="https://wakatime.com/@c5ae7569-cb60-4259-9627-79aaf3559e36"><img src="https://wakatime.com/badge/user/c5ae7569-cb60-4259-9627-79aaf3559e36.svg" alt="Total time coded since Jan 29 2023" /></a>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-umr&label=Profile%20views&color=0e75b6&style=flat" alt="m-umr" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and Bootstrap**
+- 🌱 I’m currently learning **Specialization in Django and Python**
 
 - 💬 Ask me about **Python, Django, Rest API, Graphql, Data Engineering, BigData, Machine Learning**
 
-- 📫 How to reach me **muhammad.umer3511@gmail.com**
+- 📫 How to reach me **mu.umer1357@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
