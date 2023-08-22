@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">A passionate Backend Developer and Junior Data Scientist from Pakistan</h3>
-<a href="https://wakatime.com/@c5ae7569-cb60-4259-9627-79aaf3559e36"><img src="https://wakatime.com/badge/user/c5ae7569-cb60-4259-9627-79aaf3559e36.svg" alt="Total time coded since Jan 29 2023" /></a>
+<a href="[https://wakatime.com/@c5ae7569-cb60-4259-9627-79aaf3559e36](https://wakatime.com/@muhammad_umer)"><img src="https://wakatime.com/badge/user/c5ae7569-cb60-4259-9627-79aaf3559e36.svg" alt="Total time coded since Jan 29 2023" /></a>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-umr&label=Profile%20views&color=0e75b6&style=flat" alt="m-umr" /> </p>
