@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-umr&label=Profile%20views&color=0e75b6&style=flat" alt="m-umr" /> </p>
 
-- 🌱 I’m currently learning **Specialization in Django and Python**
+- 🌱 I have **Specialized in Django and Python**
 
 - 💬 Ask me about **Python, Django, Rest API, Graphql, Data Engineering, BigData, Machine Learning**
 
